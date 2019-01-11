@@ -1,0 +1,9 @@
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\SharePointOnlineGetSearchUser.exe.config
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\SharePointOnlineGetSearchUser.exe
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\SharePointOnlineGetSearchUser.pdb
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\obj\Debug\SharePointOnlineGetSearchUser.exe
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\obj\Debug\SharePointOnlineGetSearchUser.pdb
+C:\Users\earac\Documents\Visual Studio 2015\Projects\SharePointOnlineGetSearchUser\SharePointOnlineGetSearchUser\obj\Debug\SharePointOnlineGetSearchUser.csprojResolveAssemblyReference.cache
